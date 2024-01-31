@@ -1,9 +1,9 @@
-# Biodata
+ # Biodata
 
 ![Profil Picture](link-to-image)
 
-## Nama
-Nama Lengkap
+## Nama lengkap
+Adhani AulIa Kinasih
 
 ## Informasi Kontak
 - Email: email@example.com
