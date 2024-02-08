@@ -1,60 +1,28 @@
  # Biodata
 
-![Profil Picture](link-to-image)
 
 ## Nama lengkap
 Adhani AulIa Kinasih
 
 ## Informasi Kontak
-- Email: email@example.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/username)
+- Email: adhaniaulia08@gmail.com
 - GitHub: [GitHub Profile](https://github.com/username)
+- instagram: @adhani_liaaaa
 
 ## Pendidikan
-- Gelar Sarjana, Jurusan, Universitas (Tahun)
-- Gelar Magister, Jurusan, Universitas (Tahun)
+- smp pesantren tahfidz azzayadiy (2023)
+- sma sains alquran wahidhasyim
 
-## Keahlian
-- Keahlian 1
-- Keahlian 2
-- Keahlian 3
+## hobi
+- menari
+- membaca
+- randomlah
 
-## Proyek Terkini
-1. **Judul Proyek 1**
-   - Deskripsi singkat
-   - Teknologi yang digunakan
-   - Tautan ke repositori (jika ada)
+## tempat tanggal lahir
+   Ambarawa 29 juni 2008 
+
    
-2. **Judul Proyek 2**
-   - Deskripsi singkat
-   - Teknologi yang digunakan
-   - Tautan ke repositori (jika ada)
+## mendeskripsikan diri
+  aku adalah seorang anak perempuan ke dua dari 3 bersaudara kakak ku seorang laki-laki  berumur 18 tahun dan
+ aku meiliki adik perempuan yang berumur 10 tahun 
 
-## Pengalaman Kerja
-1. **Posisi 1**
-   - Nama Perusahaan
-   - Tanggal Mulai - Tanggal Selesai
-   - Deskripsi tugas dan prestasi
-
-2. **Posisi 2**
-   - Nama Perusahaan
-   - Tanggal Mulai - Tanggal Selesai
-   - Deskripsi tugas dan prestasi
-
-## Sertifikasi
-- Nama Sertifikasi 1 (Tahun)
-- Nama Sertifikasi 2 (Tahun)
-
-## Minat
-- Minat 1
-- Minat 2
-- Minat 3
-
-## Referensi
-- Nama Referensi 1
-  - Hubungan dengan referensi
-  - Email atau kontak lainnya
-  
-- Nama Referensi 2
-  - Hubungan dengan referensi
-  - Email atau kontak lainnya
